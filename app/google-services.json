@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727953735328",
+    "project_id": "foodtap-c1bbb",
+    "storage_bucket": "foodtap-c1bbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727953735328:android:0ef4f48a2d7f79172f13c5",
+        "android_client_info": {
+          "package_name": "com.borgar.foodtap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727953735328-jg84aj4ljbgmk01tkm6tgupqeftgjura.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa34wghgbYkpfLo0RW0ZH21NpCYD2CUOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727953735328-jg84aj4ljbgmk01tkm6tgupqeftgjura.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
